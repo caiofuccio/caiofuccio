@@ -8,7 +8,7 @@ I'm Caio Fuccio, welcome to my GitHub!
 I'm from Brazil 🇧🇷, 28 years old and studying to be a Web Developer.
 
 * 🏠 Living at Belo Horizonte, MG
-* 🎓 Graduated in Electrical Engineer at UFMG
+* 🎓 Graduated in Electrical Engineering at UFMG
 * 📖 Currently studying at @Rocketseat
 * 🌱 Currently learning ReactJS, NextJS and Sass
 * 🍃 Future planning to learn Node.js
