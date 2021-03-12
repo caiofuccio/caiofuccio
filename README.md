@@ -13,10 +13,12 @@ I'm from Brazil 🇧🇷, 28 years old and studying to be a Web Developer.
 * 📬 You can contact me at [caio.fuccio@gmail.com](mailto:caio@gmail.com)
 * 👨‍💻 You can connect with me [here](https://linkedin.com/in/caiofuccio)
 
+<br/>
 
 ## Technologies
-<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="100">
+<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="50">
 
+<br/>
 
 ## My Stats
 [![Caio's GitHub stats](https://github-readme-stats.vercel.app/api?username=caiofuccio)](https://github.com/anuraghazra/github-readme-stats)
