@@ -1,5 +1,7 @@
-### 👋 Hey there
+### Hey there 👋
 
+<br />
+<br />
 
 I'm Caio Fuccio, welcome to my GitHub!
 
@@ -10,8 +12,8 @@ I'm from Brazil 🇧🇷, 28 years old and studying to be a Web Developer.
 * 📖 Currently studying at @Rocketseat
 * 🌱 Currently learning ReactJS, NextJS and Sass
 * 🍃 Future planning to learn Node.js
-* 📬 You can contact me at [caio.fuccio@gmail.com](mailto:caio@gmail.com)
-* 👨‍💻 You can connect with me [here](https://linkedin.com/in/caiofuccio)
+* 📬 You can contact me [here](mailto:caio@gmail.com)
+* 👨‍💻 You can find my LinkeIn [here](https://linkedin.com/in/caiofuccio)
 
 <br/>
 
@@ -21,4 +23,13 @@ I'm from Brazil 🇧🇷, 28 years old and studying to be a Web Developer.
 <br/>
 
 ## 💡 Here are my stats
+
+### Stats
+
 [![Caio's GitHub stats](https://github-readme-stats.vercel.app/api?username=caiofuccio)](https://github.com/anuraghazra/github-readme-stats)
+
+<br />
+
+#### Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caiofuccio&title_color=2F80ED)
