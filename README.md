@@ -28,7 +28,6 @@ I'm from Brazil 🇧🇷, 28 years old and studying to be a Web Developer.
 
 [![Caio's GitHub stats](https://github-readme-stats.vercel.app/api?username=caiofuccio)](https://github.com/anuraghazra/github-readme-stats)
 
-<br />
 
 #### Top Languages
 
