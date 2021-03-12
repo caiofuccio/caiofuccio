@@ -17,6 +17,7 @@ I'm from Brazil 🇧🇷, 28 years old and studying to be a Web Developer.
 
 ## Technologies
 <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="50">
+<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/typescript/typescript.png" height="50">
 
 <br/>
 
