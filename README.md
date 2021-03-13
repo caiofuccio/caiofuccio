@@ -12,7 +12,7 @@ I'm from Brazil 🇧🇷, 28 years old and studying to be a Web Developer.
 * 📖 Currently studying at @Rocketseat
 * 🌱 Currently learning ReactJS, NextJS and Sass
 * 🍃 Future planning to learn Node.js
-* 📬 You can contact me [here](mailto:caio@gmail.com)
+* 📬 You can contact me [here](mailto:caio.fuccio@gmail.com)
 * 👨‍💻 You can find my LinkeIn [here](https://linkedin.com/in/caiofuccio)
 
 <br/>
