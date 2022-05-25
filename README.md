@@ -5,15 +5,14 @@
 
 I'm Caio Fuccio, welcome to my GitHub!
 
-I'm from Brazil 🇧🇷 and I'm 28 years old. After 2 years working in the Electrical Engineering field, I found myself searching and learning more and more about Software Development and trying to apply it on my work. One day I realized that maybe I could go through that route, so here I am now, becoming a Full-Stack Developer and pushing myself to learn something new everyday.
+I'm from Brazil 🇧🇷 and currently working as a fullstack developer, with technologies based on Javascript, such as NodeJS, React and React Native.
 
 <img align="right" alt="GIF" src="assets/programming.gif" width="350" height="280" />
 
-* 👨🏻 28 years old
+* 👨🏻 29 years old
 * 📌 Belo Horizonte, Brazil
-* 🎓 Electrical Engineer
-* 📖 Currently studying at @Rocketseat
-* 🌱 Learning ReactJS, NextJS and Node.js
+* 🎓 Fullstack Software Developer
+* 🌱 NodeJS, React and React Native
 
 ## Social
   <a href="https://www.linkedin.com/in/caiofuccio/" alt="Linkedin">
