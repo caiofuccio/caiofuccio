@@ -5,13 +5,12 @@
 
 I'm Caio Fuccio, welcome to my GitHub!
 
-I'm from Brazil 🇧🇷 and currently working as a fullstack developer, with technologies based on Javascript, such as NodeJS, React and React Native.
+I'm from Brazil 🇧🇷 and currently working as a backend developer using Node.js.
 
 <img align="right" alt="GIF" src="assets/programming.gif" width="350" height="280" />
 
-* 👨🏻 29 years old
 * 📌 Belo Horizonte, Brazil
-* 🎓 Fullstack Software Developer
+* 🎓 Backend Software Developer
 * 🌱 NodeJS, React and React Native
 
 ## Social
