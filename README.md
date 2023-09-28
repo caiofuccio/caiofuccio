@@ -52,12 +52,12 @@ I'm from Brazil 🇧🇷 and currently working as a backend developer using Node
     />
   </a>
 &nbsp;
-  <a href="https://github.com/caiofuccio?tab=repositories">
+<!--   <a href="https://github.com/caiofuccio?tab=repositories">
     <img
       align="center"
       height="150"
       src="https://github-readme-stats.vercel.app/api?username=caiofuccio&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=dracula"
     />
-  </a>
+  </a> -->
 
 </p>
