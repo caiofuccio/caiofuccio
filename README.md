@@ -13,7 +13,7 @@ I'm from Brazil 🇧🇷 and currently working as a backend developer using Node
 * 🎓 Backend Software Engineer
 * 🌱 NodeJS | Java
 
-## Social
+ ### 🪪 Social
   <a href="https://www.linkedin.com/in/caiofuccio/" alt="Linkedin">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -23,7 +23,7 @@ I'm from Brazil 🇧🇷 and currently working as a backend developer using Node
 
 <br/>
 
-## 🛠️ Technologies
+### 🛠️ Technologies
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
